@@ -1,6 +1,6 @@
 <p>Olá, 👋</p>
 <hr>
-<p>Atualmente cursando Redes de Computadores pelo Instituto Federal de Mato Grosso.</p>
+<p>Cursando Redes de Computadores pelo Instituto Federal de Mato Grosso.</p>
 Tecnologias<br>
 <ul>
   <li>💻 Zabbix,Grafana </li>
