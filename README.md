@@ -1,14 +1,16 @@
-<p>Olá, 👋</p>
-<hr>
-<p>Cursando Redes de Computadores pelo Instituto Federal de Mato Grosso.</p>
-Tecnologias<br>
-<ul>
+## Olá, sou Fabio 👋
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabioaes)](https://github.com/fagnerpsantos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-santos-/)](https://www.linkedin.com/in/fagnerpsantos/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fabiosanntos_)](https://twitter.com/fagnerpsantos)
+
+### Sobre mim 
+Desenvolvedor Front-end e futuramente Full-stack.
+
+###
+
   <li>💻 Zabbix,Grafana </li>
-  <li>🏁 HTML,CSS,SASS,Javascript</li>
-  <li>📚 Atualmente estudando React</li>
+  <li>🏁 HTML,CSS,SASS</li>
+  <li>📚 Estudando Javascrip, React</li>
  </ul>
- <hr>
- <p>Minhas redes 🚀</p>
- <a href="https://www.frontendmentor.io/profile/fbs4ntos"><img width='25rem' src="https://raw.githubusercontent.com/fabioaes/challenge-notification-screen/main/images/favicon-32x32.png" alt=""></a> 
- <a href="https://codepen.io/fbs4ntos"><img width='25rem' src="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg" alt=""></a>
-  <a href="https://www.linkedin.com/in/fabio-santos-/"><img width='25rem' src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt=""></a>
+ 
